@@ -9,6 +9,14 @@ This system is an autonomous auditing tool designed for the ZipBoard Help Center
 *   **📊 Excel Reporting**: Generates formatted audit reports with metrics like Word Count, AI Content Type, and Strategic Gaps.
 *   **⚡ Interactive Dashboard**: A premium Streamlit UI to control the entire pipeline without touching code.
 
+## 🏗️ System Architecture
+
+### 1. n8n Workflow
+![n8n Architecture](workflow_1_n8n.png)
+
+### 2. Python Script Workflow
+![Python Architecture](workflow_2_python.png)
+
 ---
 
 ## 🚀 Getting Started
