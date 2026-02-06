@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (Secrets)
+.env
+
+# Database (Local data)
+*.db
+ai_automation.db
+
+# Generated Reports
+*.xlsx
+AI_Audit_Report_*.xlsx
+Strategic_Gap_Analysis_*.xlsx
+
+# Local System Files
+.DS_Store
+Thumbs.db

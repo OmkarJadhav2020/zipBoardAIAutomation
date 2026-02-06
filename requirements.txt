@@ -1,0 +1,10 @@
+openai
+requests
+beautifulsoup4
+pandas
+openpyxl
+sqlalchemy
+streamlit
+sqlalchemy
+google-generativeai
+python-dotenv
